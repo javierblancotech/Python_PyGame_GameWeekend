@@ -53,7 +53,9 @@ Weekend is brought to you by Javier Blanco Tech. For more information or inquiri
 
 
 🌐 Website: https://javierblancotech.com/
+
 📧 Email: info@javierblancotech.com
+
 👉🏼 LinkedIn: https://www.linkedin.com/in/javierblancotech/
 
-Enjoy the game and have a great weekend!
+Enjoy the game ! 😜
