@@ -46,10 +46,7 @@ python weekend_game.py
 
 Players are encouraged to customize the game by adding new assets, levels, and features. Modify the game variables to create new challenges or tweak the existing gameplay.
 
-# Credits
-
-Weekend is brought to you by Javier Blanco Tech. For more information or inquiries, visit the official website or contact via email.
-
+# Contact Information
 
 
 🌐 Website: https://javierblancotech.com/
