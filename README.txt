@@ -1,7 +1,7 @@
-Here I leave my version of the code of my Game created with the PyGame library of Python. Which I have followed in the Total Python course on Udemy.
+I share here my version of the code of my Game created with the PyGame Python library. You can download it and play 😉
 
-🌐 https://javierblanco.tech/
-📧 info@javierblanco.tech
+🌐 https://javierblancotech.com/
+📧 info@javierblancotech.com
 
 
-I hope you enjoy
+Download it and enjoy 😜
