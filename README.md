@@ -13,6 +13,7 @@ To run the game, you'll need Python and Pygame installed on your system. If you 
 Clone the repository to your local machine and navigate to the downloaded folder. Run the game script with Python:
 ```shell
 python weekend_game.py
+```shell
 
 
 ## Features
